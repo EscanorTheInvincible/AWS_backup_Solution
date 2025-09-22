@@ -1,0 +1,4 @@
+com\example\awsbackup\GlobalExceptionFilter.class
+com\example\awsbackup\SecurityConfig.class
+com\example\awsbackup\AwsBackupApplication.class
+com\example\awsbackup\HelloController.class
